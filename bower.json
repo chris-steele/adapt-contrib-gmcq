@@ -2,7 +2,7 @@
     "name": "adapt-contrib-gmcq",
     "repository": "git://github.com/chris-steele/adapt-contrib-gmcq.git",
     "framework": ">=2.0.11",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "displayName": "Graphical Multiple Choice Question",
     "component": "gmcq",
     "description": "A multiple choice question component, with images",
